@@ -12,7 +12,7 @@
 <h3>My first site</h3>
 <a href= "https://github.com/wandiga/mengesa-advocates-website">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wandiga&amp;repo=mengesa-advocates-website&show_owner=true&href=https://github.com/wandiga/mengesa-advocates-website">
-</a>
+<br>
 <br>
 <h3>Skilled in</h3>
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
