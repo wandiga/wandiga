@@ -1,8 +1,7 @@
 <h1>Hello, my name is Andrew Wandiga 👋🏾</h1>
 <h3>About me</h3>
 <p>I am Andrew Wandiga, a Product Designer & Web Developer focused on crafting delightful websites and applications.</p>
-<p>I am driven by an innate curiosity for the world around me, and I push to integrate insights from other fields such as software development, branding, business, psychology, marketing, and more into my work.</p>
-<p>Passionate about the power and possibilities of no-code web development, I specialize in building premium, custom landing pages and full websites using Framer.</p>
+<p>I am driven by an innate curiosity for the world around me, and I push to integrate insights from other fields such as software development, branding, business, psychology, marketing, and more into my work. Passionate about the power and possibilities of no-code web development, I specialize in building premium, custom landing pages and full websites using Framer.</p>
 <p>I am interested in collaborating with vision-driven startups and founders to develop their websites and product UIs.</p>
 
 
