@@ -4,9 +4,11 @@
 <p>I am driven by an innate curiosity for the world around me, and I push to integrate insights from other fields such as software development, branding, business, psychology, marketing, and more into my work. Passionate about the power and possibilities of no-code web development, I specialize in building premium, custom landing pages and full websites using Framer.</p>
 <p>I am interested in collaborating with vision-driven startups and founders to develop their websites and product UIs.</p>
 <br>
+<br>
 <h3>Skills</h3>
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<br>
 <br>
 <h3>Currently learning</h3>
 <img alt="SASS" align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
