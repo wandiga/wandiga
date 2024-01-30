@@ -1,8 +1,4 @@
 <h1>Hello, my name is Andrew Wandiga 👋🏾</h1>
-<h3>Stats</h3>
-<img width="47%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wandiga"/>
-<img width="33.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandiga&layout=compact)](https://github.com/wandiga/github-readme-stats"/>
-<br>
 <h3>About me</h3>
 <p>I am a Product UX Designer with 4 years of experience creating helpful, innovative, and enjoyable digital products and experiences that drive change. Currently, a freelance designer working remotely from Nairobi, where I help startups and corporate companies to build and optimize user-friendly web and mobile products.</p>
 <br>
