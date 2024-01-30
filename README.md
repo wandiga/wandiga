@@ -1,6 +1,11 @@
 <h1>Hello, my name is Andrew Wandiga 👋🏾</h1>
 <h3>About me</h3>
-<p>I am a Product UX Designer with 4 years of experience creating helpful, innovative, and enjoyable digital products and experiences that drive change. Currently, a freelance designer working remotely from Nairobi, where I help startups and corporate companies to build and optimize user-friendly web and mobile products.</p>
+<p>I am Andrew Wandiga, a Product Designer & Web Developer focused on crafting delightful websites and applications.</p>
+<p>I am driven by an innate curiosity for the world around me, and I push to integrate insights from other fields such as software development, branding, business, psychology, marketing, and more into my work.</p>
+<p>Passionate about the power and possibilities of no-code web development, I specialize in building premium, custom landing pages and full websites using Framer.</p>
+<p>I am interested in collaborating with vision-driven startups and founders to develop their websites and product UIs.</p>
+
+
 <br>
 <h3>My journey into code:</h3>
 <p>I am learning how to code (HTML, CSS, JavaScript) with a goal of building digital products - not just design them. This is my journey so far:</p>
